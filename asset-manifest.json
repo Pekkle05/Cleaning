@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Cleaning/static/css/main.e7188612.css",
-    "main.js": "/Cleaning/static/js/main.2a94b89b.js",
-    "static/js/453.2838e13c.chunk.js": "/Cleaning/static/js/453.2838e13c.chunk.js",
-    "index.html": "/Cleaning/index.html",
-    "main.e7188612.css.map": "/Cleaning/static/css/main.e7188612.css.map",
-    "main.2a94b89b.js.map": "/Cleaning/static/js/main.2a94b89b.js.map",
-    "453.2838e13c.chunk.js.map": "/Cleaning/static/js/453.2838e13c.chunk.js.map"
+    "main.css": "/tmsfault/Cleaning.git/static/css/main.e7188612.css",
+    "main.js": "/tmsfault/Cleaning.git/static/js/main.be0509ff.js",
+    "static/js/453.2838e13c.chunk.js": "/tmsfault/Cleaning.git/static/js/453.2838e13c.chunk.js",
+    "index.html": "/tmsfault/Cleaning.git/index.html",
+    "main.e7188612.css.map": "/tmsfault/Cleaning.git/static/css/main.e7188612.css.map",
+    "main.be0509ff.js.map": "/tmsfault/Cleaning.git/static/js/main.be0509ff.js.map",
+    "453.2838e13c.chunk.js.map": "/tmsfault/Cleaning.git/static/js/453.2838e13c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e7188612.css",
-    "static/js/main.2a94b89b.js"
+    "static/js/main.be0509ff.js"
   ]
 }
